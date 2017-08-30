@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+	font-size: 60px;
+}
+
+p {
+	font-size: 30px;
+}
+
+.terminal div {
+    margin-top: 10px;
+}
+
+.terminal-output, .cmd, span {
+    font-size:  30px !important;
+}
